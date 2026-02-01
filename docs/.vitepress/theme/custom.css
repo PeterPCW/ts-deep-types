@@ -1,0 +1,9 @@
+:root {
+  --vp-c-brand: #3178c6;
+  --vp-c-brand-light: #4a94db;
+  --vp-c-brand-dark: #265a9e;
+}
+
+.vp-doc h1 {
+  color: var(--vp-c-brand);
+}
