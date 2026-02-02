@@ -4,7 +4,6 @@
 
 [![npm version](https://img.shields.io/npm/v/ts-deep-types)](https://npmjs.com/package/ts-deep-types)
 [![License MIT](https://img.shields.io/npm/l/ts-deep-types)](LICENSE)
-[![Test Status](https://img.shields.io/badge/tests-95%2F95-green)]()
 
 ---
 
