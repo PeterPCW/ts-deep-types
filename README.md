@@ -2,8 +2,9 @@
 
 **A comprehensive collection of type-safe utility types for TypeScript.**
 
-[![npm version](https://img.shields.io/npm/v/ts-deep-types)](https://npmjs.com/package/ts-deep-types)
-[![License MIT](https://img.shields.io/npm/l/ts-deep-types)](LICENSE)
+[![NPM Package](https://img.shields.io/npm/v/ts-deep-types.svg)](https://www.npmjs.com/package/ts-deep-types)
+[![NPM Downloads](https://img.shields.io/npm/dm/ts-deep-types.svg)](https://www.npmjs.com/package/ts-deep-types)
+[![License](https://img.shields.io/npm/l/ts-deep-types.svg)](LICENSE)
 
 ---
 
